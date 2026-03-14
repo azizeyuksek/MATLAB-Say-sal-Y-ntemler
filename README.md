@@ -3,6 +3,7 @@
 Bu klasörde, üniversite eğitimim boyunca MATLAB kullanarak geliştirdiğim sayısal analiz ve mühendislik simülasyonlarını içermektedir.
 
 **** İçerik
+- dort_islem.m: Kullanıcıdan dinamik veri girişi alan; temel aritmetik işlemler, if-else yapısıyla hata kontrollü karekök ve küpkök hesaplamaları yapan bir algoritma.
 - Kok_Bulma_Analizi.m = Bisection, Newton-Raphson ve Secant yöntemlerinin karşılaştırmalı analizini yaptım .
 - Newton_Soguma_Analizi.m = Farklı soğuma katsayıları kullanılarak  Newton'un soğuma yasası simülasyonu yapıldı.
 - RL_Devresi_Akim_Analizi.m = RL devrelerinde geçici rejim (transient) akım analizi.
