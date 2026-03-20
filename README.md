@@ -17,5 +17,6 @@
 * RL_Devresi_Akim_Analizi.m = RL devrelerinde geçici rejim (transient) akım analizi.
 * Serbest_Dusus_Analizi.m = Yerçekimi ivmesi kullnarak  hız ve konum kinematiği hesaplama.
 * Torricelli_Tank_Bosalmasi.m = Torricelli yasası ve diferansiyel denklem kullanarak tank boşalma simülasyonu yapma.
+* Mesh_Akim_Gerilim_Modeli.m = Seri RLC devresinin zaman tanım kümesindeki davranışını durum uzayı modeli ve ode45 çözücüsü ile simüle ederek; akım, direnç, endüktans ve kapasitör gerilimlerinin geçici rejim (transient) yanıtlarını analiz eder.
 
 Not :  Tüm çalışmalarım kendi öğrenme sürecimin bir parçasıdır ve derste uygulamalar üzerinden geliştirilmiştir.
